@@ -1,0 +1,49 @@
+* {
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+body {
+    background-color:#F4C2C2 ;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    height: 75px;
+    width: 100%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif Sans ;
+    background-color: bisque;
+    color: black;
+    border-bottom: 30px #000080;
+    margin-bottom: 0px;
+}
+
+.header h1 {
+display: block;
+    font-size: 52px;
+    color: #000080 ;
+    justify-content: center;
+}
+
+
+
+
+.ul {
+    text-align: right;
+    padding-right: 75px ;
+}
+
+#aboutme {
+    list-style-type: none;
+    font-size: 25px;
+    color: #000080;
+    display: inline;
+}
+
+.sections {
+    font: size 30px; ;
+    color: #000080;
+    text-align: center;
+}
