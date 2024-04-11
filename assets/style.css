@@ -1,0 +1,63 @@
+* {
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+
+
+.header {
+    position: fixed;
+    top: 0;
+    height: 85px;
+    width: 100%;
+    font-family:'Courier New', Courier, monospace;
+    background-color: bisque;
+    color: black;
+    border-bottom: 5px solid #000080;
+    margin-bottom: 5px;
+    justify-content: space-between;
+    align-items:center ;
+}
+
+.header h1 {
+display: block;
+    font-size: 65px;
+    color: #000080 ;
+}
+
+
+
+.ul {
+    text-align: right;
+    padding-right: 75px ;
+}
+
+#aboutme {
+    list-style-type: none;
+    font-size: 20px;
+    color: #000080;
+    display: inline;
+}
+
+#work {
+    list-style-type: none;
+    font-size: 25px;
+    color: #000080;
+    display: inline;
+    }
+
+#contactme {
+    list-style-type: none;
+    font-size: 25px;
+    color: #000080;
+    display: inline;
+    }  
+
+#resume {
+    list-style-type: none;
+    font-size: 25px;
+    color: #000080;
+    display: inline;
+    }  
+
