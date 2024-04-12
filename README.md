@@ -4,7 +4,7 @@
 
 
 # Description
-This project is to create a portfolio that I can use as I become a Developer.
+This project is to create a portfolio that I can use as I become a Developer. It will have my work and how I can be contacted.
 # Installation
 
 # Usage
